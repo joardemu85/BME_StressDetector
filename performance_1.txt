@@ -1,0 +1,103 @@
+Bluetooth     Training
+ 11.94         0.17
+Bluetooth     Training
+ 11.93         0.27
+Bluetooth     Training
+ 11.96         0.18
+Bluetooth     Training
+ 12.54         0.25
+Bluetooth     Training
+ 11.94         0.18
+Bluetooth     Training
+ 12.01         0.17
+Bluetooth     Training
+ 11.96         0.18
+Bluetooth     Training
+ 11.95         0.20
+Bluetooth     Training
+ 11.95         0.27
+Bluetooth     Training
+  6.10         0.27
+Bluetooth     Training
+ 12.02         0.22
+Bluetooth     Training
+ 12.15         0.30
+Bluetooth     Training
+ 11.94         0.18
+Bluetooth     Training
+ 11.95         0.21
+
+Bluetooth     Training
+ 11.89         2.96
+Bluetooth     Training
+ 11.90         2.91
+Bluetooth     Training
+ 11.94         3.07
+Bluetooth     Training
+ 11.94         3.15
+Bluetooth     Training
+ 11.96         3.15
+Bluetooth     Training
+ 11.94         2.79
+Bluetooth     Training
+ 11.94         3.00
+Bluetooth     Training
+ 11.95         3.17
+Bluetooth     Training
+ 11.94         2.80
+Bluetooth     Training
+ 12.76         4.00
+Bluetooth     Training
+ 11.94         3.10
+Bluetooth     Training
+ 11.96         3.19
+Bluetooth     Training
+ 11.95         3.10
+Bluetooth     Training
+ 11.95         2.77
+Bluetooth     Training
+ 11.97         2.83
+Bluetooth     Training
+ 11.95         3.04
+Bluetooth     Training
+ 11.93         3.05
+Bluetooth     Training
+ 11.98         3.17
+Bluetooth     Training
+ 11.95         2.97
+Bluetooth     Training
+ 12.87         4.62
+Bluetooth     Training
+ 11.95         3.19
+Bluetooth     Training
+ 11.95         3.01
+Bluetooth     Training
+ 11.95         3.00
+Bluetooth     Training
+ 11.96         3.14
+Bluetooth     Training
+ 11.94         3.05
+Bluetooth     Training
+ 12.34         2.09
+Bluetooth     Training
+ 11.75         0.82
+Bluetooth     Training
+ 11.94         2.90
+Bluetooth     Training
+ 11.96         2.76
+Bluetooth     Training
+ 11.94         2.77
+Bluetooth     Training
+ 11.75         0.82
+Bluetooth     Training
+ 11.74         0.83
+Bluetooth     Training
+ 11.75         0.91
+Bluetooth     Training
+ 11.79         0.81
+Bluetooth     Training
+ 11.79         1.08
+Bluetooth     Training
+ 11.76         0.78
+Bluetooth     Training
+ 11.76         0.79

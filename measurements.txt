@@ -1,0 +1,18 @@
+Heart Rate       NS_SCR        Temperature              2-level                  3-level                      4-level
+ 80.00           8.00              34.89              No Stress                      Low                          Low
+ 80.00          14.00              34.76                 Stress                     High                          Low
+ 79.00           9.00              34.74              No Stress                   Normal                    Attentive
+ 78.00           8.00              34.67              No Stress                   Normal                    Attentive
+ 79.00           7.00              34.68              No Stress                      Low                          Low
+Heart Rate       NS_SCR        Temperature              2-level                  3-level                      4-level
+ 72.00           7.00              34.50                 Stress                     High                    Attentive
+ 79.00           9.00              34.55              No Stress                      Low                          Low
+ 76.00          10.00              34.75              No Stress                      Low                          Low
+ 76.00           2.00              34.97              No Stress                      Low                       Normal
+ 79.00           5.00              35.12              No Stress                      Low                          Low
+Heart Rate       NS_SCR        Temperature              2-level                  3-level                      4-level
+ 85.00          14.00              34.65              No Stress                   Normal                          Low
+ 85.00          17.00              34.65                 Stress                     High                    Attentive
+ 82.00          11.00              34.75                 Stress                     High                       Normal
+ 77.00          13.00              35.05              No Stress                   Normal                          Low
+ 77.00           7.00              35.16              No Stress                      Low                       Normal
